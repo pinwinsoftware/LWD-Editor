@@ -1,4 +1,4 @@
-# LWD-Editor
+# LWD Editor
 
 LWD Editor is a map editor for games made with Lite Engine. It is used to create and modify game maps stored in the LWD file format (Lite Engine World).
 
