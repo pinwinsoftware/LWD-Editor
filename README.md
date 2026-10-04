@@ -2,7 +2,7 @@
 
 LWD Editor is a map editor for games made with Lite Engine. It is used to create and modify game maps stored in the LWD file format (Lite Engine World).
 
-To run created levels, they must first be included in an LED file using [LADE](https://github.com/pinwinsoftware/Lade).
+To run created levels, they must first be included in an LED file using [Lade](https://github.com/pinwinsoftware/Lade).
 
 # Creating Maps
 
